@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(231, 182, 231);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+h1{
+    font-family: fantasy;
+    font-size: 30px;
+}
+h2 {
+    font-family: fantasy;
+    font-size: 30px;
+}
+header {
+    margin-bottom: 50px;
+    background-image: url("imagens/fundo.jpg");
+}
